@@ -1,4 +1,4 @@
-### Howdy 👋
+### Hello there 👋
 
 
 - 🔭 I’m currently working on building a noise pollution calculator and on a fully crossplatform sketching game.
