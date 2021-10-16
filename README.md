@@ -2,7 +2,7 @@
 
 I'm Max! I discovered the world of coding when I was 13 and I've been completely addicted since then.
 
-- 🔭 I’m currently working on building a noise pollution calculator and on a fully crossplatform sketching game.
+- 🔭 I’m currently working on the Attitude Determination and Control Systems of UofT's FINCH Satellite Mission!
 - 🚀 I love coding and doing aerospace related things!
 - 📫 How to reach me: 
   - michet.maxime@gmail.com
