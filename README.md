@@ -6,5 +6,5 @@ I'm Max! I discovered the world of coding when I was 13 and I've been completely
 - 🚀 I love coding and doing aerospace related things!
 - 📫 How to reach me: 
   - michet.maxime@gmail.com
-- ⚡ Fun fact: I love onions 🧅 😂
-
+  
+Future Space Engineer 🌌🛰️🚀
